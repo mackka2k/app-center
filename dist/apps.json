@@ -1,0 +1,80 @@
+{
+    "browsers": [
+        {
+            "name": "Brave Browser",
+            "id": "BraveSoftware.BraveBrowser"
+        }
+    ],
+    "development": [
+        {
+            "name": "Visual Studio Code",
+            "id": "Microsoft.VisualStudioCode"
+        },
+        {
+            "name": "Python 3.11",
+            "id": "Python.Python.3.11"
+        },
+        {
+            "name": "Git (Git Bash)",
+            "id": "Git.Git"
+        },
+        {
+            "name": "GitHub CLI",
+            "id": "GitHub.cli"
+        },
+        {
+            "name": "VMware Workstation Pro",
+            "id": "VMware.WorkstationPro"
+        }
+    ],
+    "utilities": [
+        {
+            "name": "7-Zip",
+            "id": "7zip.7zip"
+        },
+        {
+            "name": "Notepad++",
+            "id": "Notepad++.Notepad++"
+        },
+        {
+            "name": "VLC Media Player",
+            "id": "VideoLAN.VLC"
+        },
+        {
+            "name": "qBittorrent",
+            "id": "qBittorrent.qBittorrent"
+        },
+        {
+            "name": "Antigravity",
+            "id": "Google.Antigravity"
+        },
+        {
+            "name": "Nvidia Control Panel",
+            "id": "9NF8H0H7WMLT"
+        }
+    ],
+    "communication": [
+        {
+            "name": "Discord",
+            "id": "Discord.Discord"
+        },
+        {
+            "name": "Telegram",
+            "id": "Telegram.TelegramDesktop"
+        },
+        {
+            "name": "Messenger",
+            "id": "Facebook.Messenger"
+        }
+    ],
+    "entertainment": [
+        {
+            "name": "Steam",
+            "id": "Valve.Steam"
+        },
+        {
+            "name": "SoundCloud",
+            "id": "SoundCloud.SoundCloud"
+        }
+    ]
+}
